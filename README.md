@@ -1,4 +1,4 @@
-# CSE 375: Machine Learning
+# CSE 475: Machine Learning
 
 This repository documents my laboratory work, assignments, experiments, and learning progress for **CSE375 – Machine Learning** at **East West University**.
 
